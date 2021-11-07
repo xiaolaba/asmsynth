@@ -5,6 +5,6 @@ This is audio library and allows you to generate up to 32 voices at the same tim
 
 I had found these via youtube and the excellent demo of how to uses and the purpose of those.
 
-https://www.youtube.com/watch?v=F6uLDALwZoA
-https://www.youtube.com/watch?v=2js5-RlQH2M
+https://www.youtube.com/watch?v=F6uLDALwZoA  
+https://www.youtube.com/watch?v=2js5-RlQH2M  
 
